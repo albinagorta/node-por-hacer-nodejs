@@ -1,6 +1,5 @@
-## Aplicación de comandos
+## Aplicación de NOTAS EN COMANDO
 
-Este es el ejercicio del curso
 
 
 Recuerden instalar los paquetes de node
